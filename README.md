@@ -97,7 +97,6 @@ Choose based on your accuracy/speed requirements:
 **macOS:**
 - [SuperWhisper](#superwhisper) - Premium Mac voice-to-text app
 - [OpenSuperWhisper](#opensuperwhisper) - Open-source Mac app
-- [Plainsay](#plainsay) - On-device Mac dictation
 - [WhisperKit](#whisperkit) - Native macOS implementation
 
 **Windows:**
@@ -205,7 +204,7 @@ Applications that work on Linux, macOS, and Windows:
 #### Desktop Applications
 - **[SuperWhisper](https://superwhisper.com/)** - Premium Mac voice-to-text app
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
-- **[Plainsay](https://github.com/conrader/plainsay)** ![GitHub stars](https://img.shields.io/github/stars/conrader/plainsay?style=flat-square) - On-device dictation with Whisper or Parakeet
+- **[Plainsay](https://github.com/conrader/plainsay)** ![GitHub stars](https://img.shields.io/github/stars/conrader/plainsay?style=flat-square) - Free MIT-licensed on-device Whisper/Parakeet dictation for Apple silicon Macs (macOS 14+)
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
 
